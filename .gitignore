@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+chroma_db/
+nexus_supply.db
+data/processed/
+data/versions/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db

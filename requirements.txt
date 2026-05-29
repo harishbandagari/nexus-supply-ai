@@ -1,0 +1,30 @@
+# NexusSupply AI — Dependencies
+# Enterprise Supply Chain Disruption Intelligence Platform
+
+# AI & LLM
+openai>=1.30.0
+langchain>=0.3.0
+langchain-openai>=0.3.0
+langchain-community>=0.3.0
+langchain-chroma>=0.2.0
+
+# Vector Database
+chromadb>=0.5.0
+
+# Data Validation
+pydantic>=2.5.0
+
+# Data Processing
+pandas>=2.1.0
+
+# Document Processing
+pypdf>=4.0.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Frontend
+streamlit>=1.35.0
+
+# Utilities
+python-dotenv>=1.0.0

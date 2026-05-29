@@ -1,0 +1,43 @@
+SUPPLY CHAIN DISRUPTION ALERT — TARIFF INCREASE ON CHINESE ELECTRONICS IMPORTS
+Alert ID: DISRUPT-2026-004
+Date Issued: May 25, 2026
+Severity: MEDIUM
+Region: United States (import tariffs on Chinese-origin goods)
+Status: Pending (effective July 1, 2026)
+
+SUMMARY
+The U.S. Trade Representative has announced an increase in Section 301 tariffs on Chinese-origin electronics components from 25% to 35%, effective July 1, 2026. The tariff increase applies to HTS categories covering printed circuits, semiconductor components, display components, battery cells, and passive electronic components.
+
+AFFECTED COMPONENT CATEGORIES
+- Flexible Printed Circuits (HTS 8534.00) — 35% tariff (up from 25%)
+- OLED Driver ICs (HTS 8542.31) — 35% tariff (up from 25%)
+- Camera Actuator Modules (HTS 8501.10) — 35% tariff (up from 25%)
+- NAND Flash Memory (HTS 8542.32) — 35% tariff (up from 25%)
+- Battery Cells (HTS 8507.60) — 35% tariff (up from 25%)
+- MLCC Capacitors (HTS 8532.24) — 35% tariff (up from 25%)
+- Semiconductor Substrates (HTS 3818.00) — 35% tariff (up from 25%)
+
+IMPACTED SUPPLIERS (CHINESE ORIGIN)
+- SUP-001: Shenzhen FlexCircuit Co. (FPC)
+- SUP-002: Guangzhou Display Tech (OLED Driver ICs)
+- SUP-003: ShenTech Actuator Systems (Camera Actuators)
+- SUP-011: Shanghai Memory Systems (NAND Flash)
+- SUP-013: Dongguan Battery Corp (Battery Cells)
+- SUP-016: Suzhou Precision Circuits (FPC, Non-AVL)
+- SUP-021: Shenzhen Optoelectronics (OLED Driver ICs)
+- SUP-026: Wuhan Substrate Materials (Semiconductor Substrates)
+
+FINANCIAL IMPACT ESTIMATE
+Based on trailing 12-month procurement volumes from Chinese suppliers:
+- Additional annual tariff cost: estimated $8.2M - $12.5M
+- Per-unit cost increase: 7-10% across affected categories
+- Landed cost competitiveness of Chinese suppliers significantly reduced versus non-China alternatives
+
+RECOMMENDED ACTIONS
+1. Model total landed cost comparison: Chinese suppliers (with new tariff) vs. non-China AVL alternatives
+2. Accelerate sourcing qualification for non-China suppliers in affected categories
+3. Evaluate tariff engineering opportunities (first sale valuation, FTZ utilization)
+4. Negotiate cost-sharing arrangements with affected Chinese suppliers
+5. Review contracts for tariff pass-through clauses and obligations
+6. Pre-ship maximum inventory before July 1 effective date to lock in current tariff rates
+7. Update procurement analytics dashboard with tariff-adjusted landed costs

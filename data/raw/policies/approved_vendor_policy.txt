@@ -1,0 +1,48 @@
+ENTERPRISE PROCUREMENT POLICY — APPROVED VENDOR LIST (AVL)
+Policy ID: PROC-POL-001
+Version: 3.2
+Effective Date: January 1, 2024
+Owner: VP Global Procurement
+
+1. PURPOSE
+This policy establishes the requirements and governance framework for the Approved Vendor List (AVL) used across all hardware procurement categories. Only AVL-approved suppliers may be used for production sourcing without executive exception.
+
+2. AVL ELIGIBILITY CRITERIA
+To qualify for AVL status, a supplier must satisfy all of the following:
+(a) Completed supplier qualification audit with score >= 80%
+(b) ISO 9001:2015 certification (mandatory)
+(c) Industry-specific certifications as applicable (IATF 16949, AS9100, IPC standards)
+(d) Financial stability assessment (D&B rating >= 3A)
+(e) Minimum 12-month operational track record in the relevant component category
+(f) Completed environmental and social compliance questionnaire
+(g) Executed Master Supply Agreement with approved commercial terms
+
+3. AVL STATUS CATEGORIES
+- AVL Approved: Fully qualified for production sourcing
+- AVL Conditional: Approved with restrictions (volume caps, product line limitations)
+- AVL Probation: Under performance review; sourcing limited to non-critical components
+- Non-AVL: Not approved for production sourcing
+
+4. NON-AVL SOURCING EXCEPTIONS
+Non-AVL suppliers may only be used under the following conditions:
+(a) Emergency sourcing during declared supply disruptions (requires VP Procurement approval)
+(b) Prototype and development sourcing (limited to 500 units)
+(c) Dual-source qualification in progress (time-limited, max 6 months)
+All Non-AVL sourcing requires documented justification and risk assessment.
+
+5. AVL REVIEW CYCLE
+AVL status is reviewed quarterly based on:
+- On-time delivery performance
+- Quality metrics (PPM defect rate)
+- Responsiveness to capacity inquiries
+- Contract compliance
+- Financial health indicators
+Suppliers failing two consecutive quarterly reviews are moved to AVL Probation.
+
+6. AVL REVOCATION
+AVL status is revoked immediately upon:
+- Critical quality escape affecting end-customer products
+- Material compliance violation (RoHS, REACH)
+- Bankruptcy or insolvency filing
+- Sanctioned entity designation
+- Facility closure without transition plan

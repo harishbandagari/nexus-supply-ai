@@ -1,0 +1,39 @@
+MASTER SUPPLY AGREEMENT — SHENZHEN FLEXCIRCUIT CO. (SUP-001)
+Contract Reference: MSA-2024-FPC-001
+Effective Date: April 1, 2024
+Expiration Date: March 31, 2027
+Contracting Party: Global Hardware Manufacturing Corp.
+
+ARTICLE 1 — SCOPE OF SUPPLY
+Shenzhen FlexCircuit Co. ("Supplier") shall manufacture and deliver Flexible Printed Circuits (FPC) for integration into consumer electronics products including smartphones, tablets, and wearable devices. Deliverables include single-layer, double-layer, and multi-layer FPC assemblies per specifications in Exhibit A.
+
+ARTICLE 2 — MINIMUM ORDER QUANTITY
+Buyer commits to a minimum order quantity of 5,000 units per purchase order. Orders below MOQ threshold will incur a 15% small-lot surcharge. Quarterly volume commitments shall not fall below 50,000 units without 60-day prior written notice.
+
+ARTICLE 3 — SOURCING ALLOCATION
+Supplier is approved for a maximum sourcing allocation of 35% of Buyer's total FPC procurement volume. Allocation adjustments require mutual written agreement and 90-day implementation lead time.
+
+ARTICLE 4 — LEAD TIME AND DELIVERY
+Standard lead time is 21 calendar days from purchase order acceptance. Expedited orders (14-day lead time) are available at a 20% premium. Supplier guarantees 95% on-time delivery rate measured quarterly.
+
+ARTICLE 5 — HEADROOM CAPACITY
+Supplier commits to maintaining 120,000 units of headroom capacity available for surge orders. Headroom capacity must be confirmed within 48 hours of Buyer's capacity inquiry. Failure to maintain committed headroom capacity for two consecutive quarters constitutes a material breach.
+
+ARTICLE 6 — FORCE MAJEURE
+Neither party shall be liable for delays caused by events beyond reasonable control, including but not limited to: natural disasters, pandemics, government-imposed lockdowns, trade embargoes, port closures, military conflicts, or civil unrest. The affected party must notify the other within 72 hours and provide a mitigation plan within 14 days. Force majeure events exceeding 90 consecutive days entitle either party to terminate without penalty.
+
+ARTICLE 7 — QUALITY AND COMPLIANCE
+All deliverables must conform to IPC-6013 Class 3 standards. Supplier shall maintain ISO 9001:2015 and IATF 16949 certifications. Defect rate must not exceed 50 PPM. Non-conforming shipments exceeding 100 PPM for two consecutive months trigger corrective action and potential AVL review.
+
+ARTICLE 8 — SLA ESCALATION
+Service level violations shall follow the escalation matrix:
+- Level 1: Supplier Account Manager notification within 24 hours
+- Level 2: VP Operations engagement within 72 hours
+- Level 3: Executive escalation and AVL review within 14 days
+Chronic SLA violations (3+ incidents per quarter) trigger sourcing diversification review.
+
+ARTICLE 9 — PRICING AND PAYMENT
+Pricing is fixed for the first 12 months. Annual price adjustments are capped at CPI + 2%. Payment terms: Net 45 days from invoice date. Early payment discount: 2% for payment within 15 days.
+
+ARTICLE 10 — TERMINATION
+Either party may terminate with 180 days written notice. Immediate termination is permitted for material breach, insolvency, or force majeure exceeding 90 days. Upon termination, Supplier shall fulfill all accepted purchase orders and provide 6-month transition support.

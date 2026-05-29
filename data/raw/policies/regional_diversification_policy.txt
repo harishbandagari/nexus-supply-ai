@@ -1,0 +1,53 @@
+ENTERPRISE PROCUREMENT POLICY — REGIONAL SOURCING DIVERSIFICATION
+Policy ID: PROC-POL-002
+Version: 2.1
+Effective Date: March 1, 2024
+Owner: SVP Supply Chain Operations
+
+1. PURPOSE
+This policy mandates regional diversification of sourcing to mitigate concentration risk in critical hardware component categories. Excessive reliance on a single geographic region exposes the organization to disruption risks including geopolitical instability, natural disasters, trade restrictions, and logistics bottlenecks.
+
+2. REGIONAL CONCENTRATION LIMITS
+For each critical component category, the following regional sourcing concentration limits apply:
+
+(a) No single country shall account for more than 60% of sourcing volume for any critical component category
+(b) No single geographic corridor (e.g., Shenzhen-Dongguan, Yangtze River Delta) shall exceed 45% of category volume
+(c) Minimum of 2 distinct geographic regions must be represented in the AVL for Tier 1 components
+(d) Minimum of 3 distinct countries must be represented for annual procurement spend exceeding $50M per category
+
+3. CRITICAL COMPONENT CATEGORIES
+The following categories are designated as critical and subject to mandatory diversification:
+- Display Components (OLED Panels, Driver ICs, Display Glass)
+- Semiconductor Materials (Wafers, Substrates)
+- Interconnect (Flexible Printed Circuits, Connectors)
+- Camera Components (Actuator Modules, Lens Assemblies)
+- Power Components (Battery Cells, PMICs)
+- Memory Components (NAND Flash, DRAM)
+- Passive Components (MLCCs, Resistors)
+- RF Components (Front-End Modules, Antennas)
+
+4. DIVERSIFICATION REVIEW TRIGGERS
+Automatic sourcing diversification review is triggered when:
+(a) Regional sourcing concentration exceeds limits defined in Section 2
+(b) A regional disruption event impacts supplier operations for 14+ consecutive days
+(c) New trade restrictions, tariffs, or export controls are imposed on a sourcing region
+(d) A Tier 1 supplier in a concentrated region experiences AVL status change
+(e) Annual strategic sourcing review identifies emerging concentration risk
+
+5. DIVERSIFICATION ACTIONS
+When concentration limits are exceeded, the procurement team must:
+(a) Identify alternate suppliers in different geographic regions within 30 days
+(b) Initiate qualification process for at least one alternate supplier within 60 days
+(c) Achieve compliant diversification within 180 days
+(d) Report diversification progress to the Supply Chain Risk Committee monthly
+
+6. EXCEPTIONS
+Exceptions to regional concentration limits require:
+- Written justification from Category Manager
+- Risk assessment by Supply Chain Risk Committee
+- SVP Supply Chain Operations approval
+- Quarterly exception review and renewal
+Exceptions are granted for a maximum of 12 months.
+
+7. MONITORING AND REPORTING
+Regional sourcing concentration is monitored monthly via the Procurement Analytics Dashboard. Category Managers are responsible for maintaining compliance. Quarterly compliance reports are submitted to the Supply Chain Risk Committee.

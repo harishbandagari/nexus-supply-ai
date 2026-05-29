@@ -1,0 +1,31 @@
+INCIDENT REPORT — KUMAMOTO EARTHQUAKE DISRUPTS CMOS IMAGE SENSOR SUPPLY
+Incident ID: INC-2026-CIS-KMT-001
+Reported: April 18, 2026
+Severity: HIGH
+Affected Component Category: Camera Components — CMOS Image Sensors
+Geographic Region: Kumamoto Prefecture, Japan
+
+SUMMARY
+A magnitude 6.4 earthquake struck the Kumamoto region of Japan on April 16, 2026, directly impacting the primary CMOS image sensor (CIS) fabrication cluster used by Sony Imaging Devices KK (SUP-034). Initial damage assessments indicate cleanroom contamination, photolithography equipment misalignment, and a precautionary 14-day shutdown for structural inspection.
+
+OPERATIONAL IMPACT
+- SUP-034 Kumamoto fab on production hold for an estimated 14-21 days
+- Estimated 35-40% reduction in global flagship-grade CIS supply for Q2 2026
+- Affects flagship smartphone main camera, ultra-wide, and telephoto modules
+- Lead times for 1/1.28-inch and 1/1.56-inch stacked BSI sensors extended from 42 to 75+ days
+- Hwaseong-based SUP-035 (Korea) at maximum allocation and unable to fully backfill
+
+DEPENDENT PRODUCT IMPACT
+Premium smartphone NPI ramps for Q3 2026 product launches are at risk. Camera bill-of-materials substitutions require optical co-tuning and ISP recalibration, adding 6-8 weeks of engineering validation.
+
+MITIGATION ACTIONS REQUIRED
+1. Activate force majeure notification under MSA-2025-CIS-034 Article 6
+2. Increase allocation to SUP-035 (Hwaseong Pixel Systems) up to its 30% contractual cap
+3. Initiate emergency qualification of SUP-036 (Shenzhen OmniSensor Tech) for lower-tier camera positions only — note: SUP-036 is currently Non-AVL and reliability score is 0.74
+4. Engage SUP-058 (Hamburg ToF Sensors) to confirm uncorrelated supply for depth sensor BOM
+5. Draw on the 14-day finished-goods buffer mandated by MSA-2025-CIS-034 Article 6
+
+RISK CLASSIFICATION
+- Geographic concentration risk: CRITICAL — flagship CIS supply is structurally concentrated in Kumamoto and Hwaseong
+- Recovery timeline: 4-8 weeks to pre-incident capacity
+- Recurrence probability: Moderate (Kumamoto region has recorded multiple M6+ events in the past decade)

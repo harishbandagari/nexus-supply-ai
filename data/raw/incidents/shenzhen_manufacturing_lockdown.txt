@@ -1,0 +1,38 @@
+SUPPLY CHAIN DISRUPTION ALERT — SHENZHEN MANUFACTURING LOCKDOWN
+Alert ID: DISRUPT-2026-001
+Date Issued: May 15, 2026
+Severity: CRITICAL
+Region: Shenzhen, Guangdong Province, China
+Status: Active
+
+SUMMARY
+A government-mandated operational restriction has been imposed on manufacturing facilities in the Shenzhen Special Economic Zone effective May 12, 2026. The restriction impacts all electronics manufacturing operations in the Shenzhen-Bao'an and Shenzhen-Longhua industrial districts. Estimated duration: 21–45 days.
+
+IMPACTED FACILITIES
+The following supplier facilities are confirmed impacted:
+1. Shenzhen FlexCircuit Co. (SUP-001) — Flexible Printed Circuits manufacturing facility in Bao'an District. Full production halt confirmed.
+2. ShenTech Actuator Systems (SUP-003) — Camera Actuator Module assembly facility in Longhua District. Full production halt confirmed.
+3. Shenzhen Optoelectronics (SUP-021) — OLED Driver IC packaging and test facility in Nanshan District. Partial operations, running at 30% capacity.
+
+IMPACTED COMPONENTS
+- Flexible Printed Circuits (FPC) — Critical supply disruption. SUP-001 accounts for 35% of FPC sourcing allocation.
+- Camera Actuator Modules — Critical supply disruption. SUP-003 accounts for 40% of Camera Actuator sourcing.
+- OLED Driver ICs — Partial disruption. SUP-021 running at reduced capacity, but SUP-002 (Guangzhou) currently unaffected.
+
+SUPPLY IMPACT ASSESSMENT
+- FPC: Current pipeline inventory covers approximately 18 days of production demand. After pipeline depletion, production line stoppage risk is HIGH.
+- Camera Actuators: Pipeline inventory covers 14 days. Production impact is CRITICAL given limited alternate sources.
+- OLED Driver ICs: SUP-021 reduced capacity offset partially by SUP-002 and SUP-017 availability. Impact is MEDIUM.
+
+LOGISTICS IMPACT
+- Shenzhen port operations are functioning but experiencing 3-5 day delays due to reduced trucking capacity
+- Air freight from Shenzhen Bao'an International Airport operating at 60% capacity
+- Cross-border trucking to Hong Kong experiencing 2-day delays
+
+RECOMMENDED ACTIONS
+1. Activate Business Continuity Plans for SUP-001 and SUP-003 per contract terms
+2. Assess alternate supplier capacity: Malaysia Circuit Assembly (SUP-007) for FPC, Nagoya Actuator Corp (SUP-023) for Camera Actuators
+3. Evaluate emergency sourcing from Non-AVL suppliers if AVL alternates insufficient
+4. Increase safety stock targets for impacted components by 50%
+5. Notify downstream manufacturing partners of potential 2-4 week supply delays
+6. Schedule daily supply chain situation room meetings

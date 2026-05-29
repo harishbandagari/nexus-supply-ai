@@ -1,0 +1,29 @@
+INCIDENT REPORT — KOREAN OLED PANEL FAB FIRE DISRUPTS FOLDABLE DISPLAY SUPPLY
+Incident ID: INC-2026-OLED-KR-003
+Reported: February 12, 2026
+Severity: CRITICAL
+Affected Component Category: Display Components — Foldable OLED Panels, OLED Driver ICs
+Geographic Region: Cheongju, South Korea
+
+SUMMARY
+A fire in the deposition module of SUP-051's (Cheongju Flexible OLED) Generation 6 flexible OLED fabrication facility on February 9, 2026, has resulted in significant equipment damage. Initial assessments indicate the affected deposition chamber is offline for an estimated 12-16 weeks. SUP-051 has issued a force majeure notification covering all foldable OLED panel deliveries.
+
+OPERATIONAL IMPACT
+- SUP-051 foldable OLED panel output reduced by 60% for the next 90-120 days
+- Knock-on effect on SUP-002 (Guangzhou Display Tech) OLED driver IC demand reallocation
+- Foldable smartphone NPI ramps for upcoming flagship launch at high risk
+- No qualified Tier 1 alternative for Buyer's current foldable display specification
+
+DEPENDENT PRODUCT IMPACT
+Foldable flagship smartphone product line — projected Q3 launch — may slip 8-12 weeks if alternative supply cannot be qualified.
+
+MITIGATION ACTIONS REQUIRED
+1. Engage SUP-052 (Hefei Foldable Display) for emergency qualification — Tier 2, AVL, but reliability score 0.85 and risk score 0.62 (geographic concentration concern)
+2. Negotiate temporary allocation increase from SUP-005 (Korea Display Corp) for rigid OLED on non-foldable product lines to free capacity elsewhere
+3. Review feasibility of a one-product-cycle delay vs. specification downgrade for the foldable launch
+4. Initiate dual-source qualification program for foldable OLED — current single-source posture is a critical strategic vulnerability
+
+RISK CLASSIFICATION
+- Single-source risk: CRITICAL — foldable OLED at flagship specification has no dual source
+- Recovery timeline: 12-16 weeks
+- Recurrence probability: Low for fire specifically, but underlying single-source concentration risk is structural

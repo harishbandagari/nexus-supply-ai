@@ -1,0 +1,29 @@
+MASTER SUPPLY AGREEMENT — KOREA DISPLAY CORP (SUP-005)
+Contract Reference: MSA-2024-OLED-005
+Effective Date: June 1, 2024
+Expiration Date: September 30, 2027
+Contracting Party: Global Hardware Manufacturing Corp.
+
+ARTICLE 1 — SCOPE OF SUPPLY
+Korea Display Corp ("Supplier") shall manufacture and deliver OLED Panel assemblies for premium smartphone and tablet product lines. Scope includes LTPO OLED panels, flexible OLED panels, and under-display integration modules as specified in Exhibit E.
+
+ARTICLE 2 — MINIMUM ORDER QUANTITY
+Minimum order quantity is 2,000 panel units per purchase order. Quarterly commitment: 20,000 units minimum. Panel customization orders (curved, foldable) carry a minimum of 5,000 units and 45-day lead time.
+
+ARTICLE 3 — SOURCING ALLOCATION
+Maximum allocation: 35% of total OLED Panel procurement. Supplier is designated as a strategic dual-source partner alongside Kaohsiung Display Systems (SUP-022). Combined allocation from both OLED Panel suppliers shall not exceed 55% from any single country.
+
+ARTICLE 4 — LEAD TIME AND DELIVERY
+Standard lead time: 30 calendar days for flat OLED panels. Flexible OLED: 38 calendar days. Foldable OLED: 45 calendar days. On-time delivery target: 97%.
+
+ARTICLE 5 — HEADROOM CAPACITY
+Supplier guarantees 75,000 units headroom capacity across all panel types. Capacity is allocated: 60% flat OLED, 25% flexible OLED, 15% foldable OLED. Reallocation between panel types requires 21-day notice.
+
+ARTICLE 6 — FORCE MAJEURE
+Standard provisions apply. Supplier's Seoul facility is assessed as low geopolitical risk. However, in the event of Korean Peninsula security escalation, Supplier must activate its Cheonan backup facility within 7 days and provide Buyer with revised production timelines within 72 hours.
+
+ARTICLE 7 — QUALITY AND YIELD
+Panel yield rate minimum: 92%. Color accuracy: Delta-E < 1.5. Brightness uniformity: > 95%. All panels tested per Buyer's Display Quality Specification DQS-2024-Rev3. Annual audit rights with 21-day notice.
+
+ARTICLE 8 — SUSTAINABILITY
+Supplier commits to RE100 renewable energy targets for panel manufacturing by 2026. Conflict mineral reporting per OECD guidelines. Annual sustainability audit results shared with Buyer.

@@ -1,0 +1,35 @@
+MASTER SUPPLY AGREEMENT — HSINCHU APPLICATION PROCESSOR FOUNDRY (SUP-031)
+Contract Reference: MSA-2025-SOC-031
+Effective Date: January 1, 2025
+Expiration Date: December 31, 2028
+Contracting Party: Premium Mobile Devices Corp.
+
+ARTICLE 1 — SCOPE OF SUPPLY
+Supplier shall provide leading-edge wafer foundry services for Buyer's custom mobile Application Processor System-on-Chip (AP SoC) on advanced N3 and N2 process nodes. Deliverables include wafer fabrication, advanced packaging (CoWoS and InFO), and known-good-die testing per specifications in Exhibit A.
+
+ARTICLE 2 — MINIMUM ORDER QUANTITY
+Buyer commits to a minimum wafer start quantity of 500 wafers per purchase order. Annual wafer commitment shall not fall below 12,000 wafers.
+
+ARTICLE 3 — SOURCING ALLOCATION
+Supplier is approved for a maximum sourcing allocation of 45% of Buyer's total flagship AP SoC wafer demand. This concentration is permitted only because leading-edge foundry capacity at N3 and below is structurally constrained to a small number of qualified suppliers globally. Buyer shall maintain a documented dual-foundry qualification roadmap.
+
+ARTICLE 4 — LEAD TIME AND DELIVERY
+Standard lead time is 56 calendar days from wafer start. Supplier guarantees 97% on-time delivery rate measured quarterly.
+
+ARTICLE 5 — HEADROOM CAPACITY
+Supplier commits to maintaining 40,000 wafer-equivalent units of headroom capacity available for surge orders.
+
+ARTICLE 6 — FORCE MAJEURE AND GEOPOLITICAL RISK
+Both parties acknowledge elevated geopolitical exposure given supplier fab concentration in Hsinchu, Taiwan. Supplier shall maintain documented business continuity plans including secondary fab qualification at non-Taiwan facilities and a strategic finished-goods buffer of not less than 21 days. Geopolitical disruption exceeding 30 consecutive days entitles Buyer to invoke dual-foundry contingency without penalty.
+
+ARTICLE 7 — QUALITY AND COMPLIANCE
+All deliverables must conform to Buyer's PDK and design rule specifications. Wafer yield commitment: 90% functional die per wafer at maturity.
+
+ARTICLE 8 — SLA ESCALATION
+Standard three-tier escalation matrix applies.
+
+ARTICLE 9 — PRICING AND PAYMENT
+Wafer pricing fixed for 12 months. Annual price adjustments capped at CPI + 3%. Payment terms: Net 60 days from wafer-out.
+
+ARTICLE 10 — TERMINATION
+Either party may terminate with 270 days written notice given long foundry transition cycles.

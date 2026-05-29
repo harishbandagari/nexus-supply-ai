@@ -1,0 +1,40 @@
+MASTER SUPPLY AGREEMENT — GUANGZHOU DISPLAY TECH (SUP-002)
+Contract Reference: MSA-2024-OLED-002
+Effective Date: January 1, 2024
+Expiration Date: June 30, 2027
+Contracting Party: Global Hardware Manufacturing Corp.
+
+ARTICLE 1 — SCOPE OF SUPPLY
+Guangzhou Display Tech ("Supplier") shall manufacture and deliver OLED Driver Integrated Circuits for smartphone and tablet display assemblies. Product specifications are defined in Exhibit B, covering resolution ranges from FHD+ to QHD+ driver ICs.
+
+ARTICLE 2 — MINIMUM ORDER QUANTITY
+Minimum order quantity is 8,000 units per purchase order. Quarterly commitment floors of 80,000 units apply. Failure to meet quarterly minimums for two consecutive quarters triggers contract renegotiation.
+
+ARTICLE 3 — SOURCING ALLOCATION
+Maximum sourcing allocation cap is 30% of total OLED Driver IC procurement. Supplier shall not be designated as sole source for any critical display component without board-level risk review and approval.
+
+ARTICLE 4 — LEAD TIME AND DELIVERY
+Standard lead time is 28 calendar days. Supplier must maintain buffer inventory equivalent to 2 weeks of average order volume. Delivery performance below 90% for any quarter triggers Level 2 SLA escalation.
+
+ARTICLE 5 — HEADROOM CAPACITY
+Supplier guarantees 85,000 units of headroom capacity for demand surges. Capacity confirmation turnaround: 72 hours. Headroom capacity is reviewed quarterly and adjusted based on trailing 6-month demand patterns.
+
+ARTICLE 6 — FORCE MAJEURE
+Force majeure provisions apply to events including: government-mandated facility shutdowns, export restrictions on raw materials (including Gallium, Indium, and rare earth elements), regional power grid failures, typhoons, and pandemic-related operational restrictions. Notification requirement: 48 hours. Mitigation plan: 10 business days. Extended force majeure (60+ days) triggers automatic sourcing diversification protocol.
+
+ARTICLE 7 — EXPORT RESTRICTIONS AND MATERIAL SOURCING
+Supplier acknowledges that OLED Driver IC manufacturing depends on Gallium-based compounds. In the event of government-imposed export restrictions on Gallium or related materials, Supplier must immediately notify Buyer and provide:
+(a) current raw material inventory levels
+(b) estimated production runway in weeks
+(c) alternate material sourcing plan
+(d) expected lead time impact
+Buyer reserves the right to activate alternate sourcing upon receiving export restriction notification.
+
+ARTICLE 8 — QUALITY AND COMPLIANCE
+All OLED Driver ICs must meet AEC-Q100 Grade 2 reliability standards where applicable. Supplier maintains ISO 9001:2015 certification. Yield rates below 95% trigger joint engineering review. Buyer reserves right to conduct quarterly facility audits with 14-day notice.
+
+ARTICLE 9 — PRICING
+Base pricing as defined in Exhibit C. Raw material cost pass-through adjustments are permitted quarterly, capped at 5% per adjustment. Gallium price volatility surcharges require 30-day advance notice and supporting commodity index documentation.
+
+ARTICLE 10 — INTELLECTUAL PROPERTY
+All custom IC designs developed under this agreement are jointly owned. Supplier shall not manufacture identical specifications for competitors without written consent. Design files and test vectors remain Buyer's confidential information.

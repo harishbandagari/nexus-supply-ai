@@ -1,0 +1,40 @@
+MASTER SUPPLY AGREEMENT — SHENTECH ACTUATOR SYSTEMS (SUP-003)
+Contract Reference: MSA-2024-CAM-003
+Effective Date: March 1, 2024
+Expiration Date: December 31, 2026
+Contracting Party: Global Hardware Manufacturing Corp.
+
+ARTICLE 1 — SCOPE OF SUPPLY
+ShenTech Actuator Systems ("Supplier") shall manufacture and deliver Camera Actuator Modules including Optical Image Stabilization (OIS) actuators, Voice Coil Motor (VCM) actuators, and Auto-Focus actuator assemblies for smartphone camera systems.
+
+ARTICLE 2 — MINIMUM ORDER QUANTITY
+Minimum order quantity is 3,000 units per purchase order. Quarterly minimum commitment: 30,000 units. Small-lot orders below MOQ are accepted on an exception basis with 25% surcharge and 45-day extended lead time.
+
+ARTICLE 3 — SOURCING ALLOCATION
+Supplier is allocated a maximum of 40% of total Camera Actuator Module procurement volume. Given Shenzhen manufacturing concentration risk, allocation reviews are triggered automatically when regional sourcing from any single geography exceeds 50% of category volume.
+
+ARTICLE 4 — LEAD TIME AND DELIVERY
+Standard lead time is 35 calendar days. Complex multi-axis OIS actuator assemblies require 42-day lead time. Supplier must provide weekly production status updates for orders exceeding 50,000 units.
+
+ARTICLE 5 — HEADROOM CAPACITY
+Supplier maintains 60,000 units of headroom capacity. Surge order acceptance is contingent on current production line utilization. During peak production periods (Q3-Q4), headroom capacity may be reduced to 40,000 units with 30-day advance notice.
+
+ARTICLE 6 — FORCE MAJEURE
+Standard force majeure provisions apply. Additionally, due to Shenzhen's exposure to regional disruption events (typhoons, government-mandated shutdowns, power rationing), Supplier maintains a documented Business Continuity Plan (BCP) that includes:
+(a) secondary production facility activation within 14 days
+(b) minimum 30-day raw material buffer inventory
+(c) cross-trained workforce deployment plan
+BCP testing is required annually, with results shared with Buyer.
+
+ARTICLE 7 — REGIONAL RISK PROVISIONS
+Given the concentration of Camera Actuator Module manufacturing in the Shenzhen-Dongguan corridor, both parties acknowledge elevated regional disruption risk. In the event of a regional disruption affecting Shenzhen manufacturing for more than 14 consecutive days:
+(a) Supplier activates BCP within 48 hours
+(b) Buyer may immediately activate alternate sourcing without penalty
+(c) Supplier provides daily operational status reports
+(d) Transition support to alternate suppliers is mandatory for 90 days post-disruption
+
+ARTICLE 8 — QUALITY
+Products must meet Buyer's camera module reliability specification (CMS-REL-2024). Environmental testing per JEDEC JESD22 standards. Actuator lifetime: minimum 200,000 cycles. Supplier must maintain cleanroom manufacturing (Class 1000 or better).
+
+ARTICLE 9 — PRICING
+Fixed pricing for initial 18-month period. Rare earth material cost adjustments permitted semi-annually with 60-day notice and third-party commodity price verification. Volume discount tiers apply per Exhibit D.

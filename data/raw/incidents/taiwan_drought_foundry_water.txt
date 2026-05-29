@@ -1,0 +1,30 @@
+INCIDENT REPORT — TAIWAN DROUGHT THREATENS LEADING-EDGE FOUNDRY OUTPUT
+Incident ID: INC-2026-FAB-TW-002
+Reported: March 5, 2026
+Severity: HIGH
+Affected Component Category: Semiconductor Logic — Application Processor SoC, RF Components, Camera Components
+Geographic Region: Hsinchu and Taichung Science Parks, Taiwan
+
+SUMMARY
+Taiwan's Central Weather Bureau has declared a Stage 2 drought warning across northern and central Taiwan following a third consecutive below-average typhoon season. Reservoir levels at Baoshan No. 2 and Yongheshan have dropped below 30% capacity. Semiconductor fabs in Hsinchu — including SUP-031 (Hsinchu Application Processor Foundry) and SUP-038 (Hsinchu Mobile Memory) — consume an estimated 156,000 tons of ultrapure water per day and face mandatory water rationing of up to 15%.
+
+OPERATIONAL IMPACT
+- SUP-031: AP SoC wafer starts reduced by an estimated 10-15% for 60-90 days
+- SUP-038: LPDDR5 mobile DRAM output reduced by 8-12%
+- SUP-055 (Taichung Camera Optics): lens grinding and polishing operations affected
+- Lead times for N3/N2 wafers extended from 56 to 75+ days
+- Expedited orders suspended until water curtailment is lifted
+
+DEPENDENT PRODUCT IMPACT
+Flagship mobile AP SoC supply for H2 2026 product launches at risk. LPDDR5 spot pricing already up 18% over the past 30 days.
+
+MITIGATION ACTIONS REQUIRED
+1. Engage SUP-032 (Pyeongtaek Mobile Logic, South Korea) to confirm available N3 capacity for backfill
+2. Increase LPDDR5 allocation to SUP-037 (Pyeongtaek Mobile DRAM) and SUP-039 (Boise Memory Works)
+3. Avoid SUP-033 (Suzhou SoC Packaging) — Non-AVL, reliability 0.72, fails confidence threshold
+4. Pull forward Q3 wafer commitments using contractual headroom capacity (40,000 wafer-equivalent units per MSA-2025-SOC-031 Article 5)
+
+RISK CLASSIFICATION
+- Geographic concentration risk: CRITICAL — leading-edge logic and memory are heavily concentrated in Taiwan
+- Recovery timeline: 60-120 days, dependent on monsoon arrival
+- Recurrence probability: HIGH — Taiwan has experienced four drought events in the past six years

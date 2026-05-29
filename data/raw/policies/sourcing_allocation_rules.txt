@@ -1,0 +1,37 @@
+ENTERPRISE PROCUREMENT POLICY — SOURCING ALLOCATION RULES
+Policy ID: PROC-POL-003
+Version: 1.4
+Effective Date: February 1, 2024
+Owner: Director of Strategic Sourcing
+
+1. PURPOSE
+This policy defines sourcing allocation rules governing the distribution of procurement volume across approved suppliers within each component category. Allocation caps ensure supply continuity, prevent over-reliance on individual suppliers, and maintain competitive sourcing leverage.
+
+2. ALLOCATION CAP ENFORCEMENT
+(a) Each supplier's sourcing allocation cap is defined in the Master Supply Agreement and recorded in the Supplier Registry
+(b) Allocation caps are expressed as a percentage of total category procurement volume
+(c) Allocation caps must be validated before any purchase order exceeding $100K or 10,000 units
+(d) Systems must block purchase orders that would cause a supplier's trailing 12-month allocation to exceed their cap
+
+3. ALLOCATION ADJUSTMENT PROCESS
+Allocation cap adjustments require:
+(a) Category Manager recommendation with business justification
+(b) Supply Chain Risk assessment
+(c) VP Procurement approval for adjustments up to 10 percentage points
+(d) SVP Supply Chain Operations approval for adjustments exceeding 10 percentage points
+(e) 90-day implementation lead time for allocation increases
+(f) 30-day notice to affected suppliers for allocation decreases
+
+4. EMERGENCY ALLOCATION OVERRIDES
+During declared supply disruptions, temporary allocation overrides are permitted:
+(a) VP Procurement may authorize temporary override for up to 30 days
+(b) Override must not exceed 150% of the supplier's standard allocation cap
+(c) Override documentation must include: disruption event, expected duration, risk assessment, and reversion plan
+(d) All overrides are logged in the Procurement Audit System
+
+5. ALLOCATION MONITORING
+Category Managers monitor allocation compliance monthly. The Procurement Analytics system generates alerts when:
+(a) Any supplier reaches 80% of their allocation cap (warning)
+(b) Any supplier reaches 95% of their allocation cap (critical alert)
+(c) Any supplier exceeds their allocation cap (compliance violation)
+Compliance violations require corrective action within 30 days.

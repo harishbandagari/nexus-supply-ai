@@ -1,0 +1,44 @@
+SUPPLY CHAIN DISRUPTION ALERT — GALLIUM EXPORT RESTRICTIONS
+Alert ID: DISRUPT-2026-002
+Date Issued: May 20, 2026
+Severity: HIGH
+Region: China (nationwide)
+Status: Active
+
+SUMMARY
+The Chinese Ministry of Commerce has announced expanded export licensing requirements for Gallium, Germanium, and related compounds effective June 1, 2026. This follows the existing export control framework implemented in 2024 but introduces additional restrictions on processed Gallium compounds used in semiconductor and display manufacturing.
+
+AFFECTED MATERIALS
+- Gallium metal (Ga, 99.99% purity and above)
+- Gallium Arsenide (GaAs) wafers and substrates
+- Gallium Nitride (GaN) epitaxial wafers
+- Gallium-based compounds used in OLED manufacturing
+- Indium Gallium Zinc Oxide (IGZO) target materials
+
+IMPACTED SUPPLIERS AND COMPONENTS
+1. Guangzhou Display Tech (SUP-002) — OLED Driver ICs. Uses Gallium-based compounds in IC fabrication. Supplier has reported 8-week raw material inventory. Post-inventory depletion, production capacity will drop to zero unless alternate material sources secured.
+
+2. Shenzhen Optoelectronics (SUP-021) — OLED Driver ICs. Similar Gallium dependency. Reported 6-week inventory. High exposure.
+
+3. Taiwan Semiconductor Materials (SUP-004) — Gallium Arsenide Wafers. Primary Gallium source is Chinese suppliers. Has initiated alternate sourcing from European and Japanese refiners. Lead time impact: +21 days during transition.
+
+4. Wuhan Substrate Materials (SUP-026) — Semiconductor Substrates. Direct impact on Gallium-dependent substrate production. Reported applying for export licenses but timeline uncertain.
+
+SUPPLY CHAIN IMPACT
+- OLED Driver IC supply: MEDIUM-HIGH risk. Combined inventory runway of SUP-002 and SUP-021 is 6-8 weeks. Beyond that, production depends on export license approvals or alternate material sourcing.
+- GaAs Wafer supply: MEDIUM risk. SUP-004 (Taiwan) is diversifying material sources. SUP-024 (Dresden) uses European Gallium supply chain and is unaffected.
+- Semiconductor Substrate supply: MEDIUM risk. SUP-026 directly impacted.
+
+MARKET INTELLIGENCE
+- Gallium spot prices have increased 40% since announcement
+- European Gallium refiners (Umicore, PPM Pure Metals) report full order books through Q3 2026
+- Japanese Gallium suppliers (Dowa Electronics) have limited spot availability
+- Recycled Gallium supply chains are insufficient to offset shortfall
+
+RECOMMENDED ACTIONS
+1. Engage SUP-002 and SUP-021 immediately for Gallium inventory status and export license application updates
+2. Accelerate qualification of Thai Electronics Solutions (SUP-017) as alternate OLED Driver IC source (non-Gallium-dependent fabrication process)
+3. Confirm SUP-004 alternate Gallium sourcing plan and revised lead times
+4. Evaluate Dresden Chip Foundry (SUP-024) for increased GaAs Wafer allocation (European Gallium supply chain)
+5. Review contract force majeure clauses for export restriction coverage
+6. Model production impact scenarios for 8-week, 12-week, and 6-month Gallium restriction durations

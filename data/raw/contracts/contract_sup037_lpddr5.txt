@@ -1,0 +1,35 @@
+MASTER SUPPLY AGREEMENT — PYEONGTAEK MOBILE DRAM (SUP-037)
+Contract Reference: MSA-2025-LPDDR5-037
+Effective Date: March 1, 2025
+Expiration Date: February 28, 2028
+Contracting Party: Premium Mobile Devices Corp.
+
+ARTICLE 1 — SCOPE OF SUPPLY
+Supplier shall manufacture and deliver LPDDR5 and LPDDR5X mobile DRAM packages (8GB, 12GB, and 16GB density options) for integration into flagship smartphone application processor stacks. Deliverables include known-good-die PoP (package-on-package) and discrete BGA configurations per Exhibit A.
+
+ARTICLE 2 — MINIMUM ORDER QUANTITY
+Buyer commits to a minimum order quantity of 5,000 units per purchase order. Quarterly volume commitments shall not fall below 250,000 units.
+
+ARTICLE 3 — SOURCING ALLOCATION
+Supplier is approved for a maximum sourcing allocation of 40% of Buyer's total LPDDR5 mobile DRAM procurement volume. Buyer shall maintain at least two additional qualified LPDDR5 suppliers at all times to ensure dual-source resilience.
+
+ARTICLE 4 — LEAD TIME AND DELIVERY
+Standard lead time is 28 calendar days from purchase order acceptance. Supplier guarantees 95% on-time delivery rate measured quarterly.
+
+ARTICLE 5 — HEADROOM CAPACITY
+Supplier commits to maintaining 140,000 units of headroom capacity available for surge orders during NPI launch windows.
+
+ARTICLE 6 — FORCE MAJEURE
+Standard force majeure provisions apply. Memory market price volatility shall not constitute force majeure.
+
+ARTICLE 7 — QUALITY AND COMPLIANCE
+All deliverables must conform to JEDEC LPDDR5/LPDDR5X specifications. Defect rate must not exceed 30 PPM. Supplier shall maintain ISO 9001:2015 certification.
+
+ARTICLE 8 — SLA ESCALATION
+Standard three-tier escalation matrix applies.
+
+ARTICLE 9 — PRICING AND PAYMENT
+Pricing is reviewed quarterly and benchmarked against DRAMeXchange spot index. Payment terms: Net 45 days from invoice date.
+
+ARTICLE 10 — TERMINATION
+Either party may terminate with 180 days written notice.

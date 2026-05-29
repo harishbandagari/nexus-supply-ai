@@ -1,0 +1,35 @@
+MASTER SUPPLY AGREEMENT — SONY IMAGING DEVICES KK (SUP-034)
+Contract Reference: MSA-2025-CIS-034
+Effective Date: April 1, 2025
+Expiration Date: March 31, 2028
+Contracting Party: Premium Mobile Devices Corp.
+
+ARTICLE 1 — SCOPE OF SUPPLY
+Sony Imaging Devices KK ("Supplier") shall manufacture and deliver stacked back-illuminated CMOS Image Sensors (CIS) for integration into flagship smartphone main, ultra-wide, and telephoto camera modules. Deliverables include 1/1.28-inch, 1/1.56-inch, and 1/2.55-inch sensor formats with on-chip phase-detection autofocus per specifications in Exhibit A.
+
+ARTICLE 2 — MINIMUM ORDER QUANTITY
+Buyer commits to a minimum order quantity of 1,200 units per purchase order. Quarterly volume commitments shall not fall below 75,000 units. Underutilization of committed volume by more than 20% triggers an idle capacity surcharge of 8%.
+
+ARTICLE 3 — SOURCING ALLOCATION
+Supplier is approved for a maximum sourcing allocation of 50% of Buyer's total flagship CMOS image sensor procurement volume. This concentration is permitted only because CIS for premium mobile camera systems is a strategically constrained category with limited qualified Tier 1 alternatives.
+
+ARTICLE 4 — LEAD TIME AND DELIVERY
+Standard lead time is 42 calendar days from purchase order acceptance. Expedited orders (28-day lead time) are available at a 25% premium and subject to wafer availability. Supplier guarantees 96% on-time delivery rate measured quarterly.
+
+ARTICLE 5 — HEADROOM CAPACITY
+Supplier commits to maintaining 55,000 units of headroom capacity available for surge orders driven by new product introductions or competitor supply disruptions. Headroom availability must be confirmed within 72 hours of Buyer's inquiry.
+
+ARTICLE 6 — FORCE MAJEURE AND NATURAL DISASTER PROVISIONS
+Given supplier fab concentration in Kumamoto, Japan, both parties acknowledge elevated exposure to seismic events, typhoon-related power disruption, and water curtailment. Supplier shall maintain documented business continuity plans including secondary water sources and a minimum 14-day finished-goods buffer at the Kumamoto facility. Force majeure events exceeding 60 consecutive days entitle Buyer to dual-source the affected volume without penalty.
+
+ARTICLE 7 — QUALITY AND COMPLIANCE
+All deliverables must conform to MIPI CSI-2 v3.0 electrical and protocol specifications. Defect rate must not exceed 25 PPM. Supplier shall maintain ISO 9001:2015 and IATF 16949 certifications.
+
+ARTICLE 8 — SLA ESCALATION
+Service level violations shall follow Buyer's standard three-tier escalation matrix (Account Manager → VP Operations → Executive AVL review).
+
+ARTICLE 9 — PRICING AND PAYMENT
+Pricing is fixed for the first 12 months. Annual price adjustments are capped at CPI + 2%. Payment terms: Net 45 days from invoice date.
+
+ARTICLE 10 — TERMINATION
+Either party may terminate with 180 days written notice. Immediate termination is permitted for material breach, insolvency, or force majeure exceeding 90 days.
