@@ -140,7 +140,6 @@ nexus-supply-ai/
 ├── requirements.txt
 ├── .env.example
 ├── LICENSE                     # MIT License
-├── WRITEUP.md                  # Portfolio writeup (Substack-style)
 └── Tutorial.md                 # AI concepts tutorial for PMs
 ```
 
